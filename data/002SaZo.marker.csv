@@ -1,0 +1,29 @@
+software mouseReMoCo;version 1.3.0;isWithLSL false;screenWidth 1264;screenHeight 641;centerX 632;centerY 320;autoStart 3600;cycleMaxNumber 6;cycleDuration 20;borderColor java.awt.Color[r=255,g=255,b=255];textColor java.awt.Color[r=255,g=255,b=255];backgroundColor java.awt.Color[r=0,g=0,b=0];cursorColorRecord java.awt.Color[r=255,g=0,b=0];cursorColorWait java.awt.Color[r=255,g=255,b=0];task circular;cornerX 392;cornerY 80;externalRadius 240;internalRadius 160;borderRadius 1;cursorRadius 16;indexOfDifficulty 26.670116357070796;taskRadius 199.5;taskTolerance 47
+2026-10-27 07:17:30.334 +0100
+
+2026-10-27 07:17:37.291 +0100,1793081857291,KeyTyped=32 ASCI=  DoCycleChange
+2026-10-27 07:17:37.291 +0100,1793081857291,DoCycleChange:DoStartCycleTimedSequence
+2026-10-27 07:17:37.291 +0100,1793081857291,DoCycleChange:DoRecord RecordDone=0 PauseDone=0 ToDo=6
+2026-10-27 07:17:57.301 +0100,1793081877301,DoCycleChange:DoPause RecordDone=1 PauseDone=0 ToDo=6
+2026-10-27 07:18:17.312 +0100,1793081897312,DoCycleChange:DoRecord RecordDone=1 PauseDone=1 ToDo=6
+2026-10-27 07:18:37.318 +0100,1793081917318,DoCycleChange:DoPause RecordDone=2 PauseDone=1 ToDo=6
+2026-10-27 07:18:57.321 +0100,1793081937321,DoCycleChange:DoRecord RecordDone=2 PauseDone=2 ToDo=6
+2026-10-27 07:19:17.322 +0100,1793081957322,DoCycleChange:DoPause RecordDone=3 PauseDone=2 ToDo=6
+2026-10-27 07:19:37.328 +0100,1793081977328,DoCycleChange:DoRecord RecordDone=3 PauseDone=3 ToDo=6
+2026-10-27 07:19:57.344 +0100,1793081997344,DoCycleChange:DoPause RecordDone=4 PauseDone=3 ToDo=6
+2026-10-27 07:20:17.345 +0100,1793082017345,DoCycleChange:DoRecord RecordDone=4 PauseDone=4 ToDo=6
+2026-10-27 07:20:37.360 +0100,1793082037360,DoCycleChange:DoPause RecordDone=5 PauseDone=4 ToDo=6
+2026-10-27 07:20:57.372 +0100,1793082057372,DoCycleChange:DoRecord RecordDone=5 PauseDone=5 ToDo=6
+2026-10-27 07:21:17.384 +0100,1793082077384,DoCycleChange:DoPause RecordDone=6 PauseDone=5 ToDo=6
+2026-10-27 07:21:20.075 +0100,1793082080075,KeyTyped=19 ASCI= 
+2026-10-27 07:21:23.657 +0100,1793082083657,KeyTyped=113 ASCI=q WINDOW_CLOSING
+2026-10-27 07:21:23.657 +0100,1793082083657,
+    Var , nLaps ,      Re ,      Te ,   error ,  MT/lap , IDe/lap ,      Be ,     IPe ,
+   unit ,   lap ,   pixel ,   pixel ,       % ,   s/lap , bit/lap ,  double ,   bit/s ,
+ Theory ,  1.00 ,  199.50 ,   47.00 ,    3.88 ,         ,         ,    1.00 ,         ,
+ Rec001 , -5.99 ,  197.27 ,   42.79 ,    2.22 ,    3.24 ,   28.97 ,    0.91 ,    8.93 ,
+ Rec002 , -6.00 ,  191.70 ,   52.59 ,    8.85 ,    3.23 ,   22.90 ,    1.12 ,    7.09 ,
+ Rec003 , -7.72 ,  189.98 ,   43.90 ,    4.86 ,    2.54 ,   27.19 ,    0.93 ,   10.70 ,
+ Rec004 , -6.03 ,  197.08 ,   52.71 ,    6.32 ,    3.25 ,   23.49 ,    1.12 ,    7.22 ,
+ Rec005 , -6.43 ,  190.00 ,   61.48 ,   16.18 ,    3.02 ,   19.42 ,    1.31 ,    6.43 ,
+ Rec006 , -8.01 ,  195.77 ,   61.92 ,   10.47 ,    2.43 ,   19.86 ,    1.32 ,    8.18 ,
