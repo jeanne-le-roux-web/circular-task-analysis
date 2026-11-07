@@ -143,7 +143,7 @@ The table at the end of the marker file is read automatically and compared to ou
 
 ## 9. Workflow
 
-The project was split into 12 tasks, taken in turn by Jeanne, Gaia and Zoé, so that each of us worked on reading, graphics, computing and finalisation.
+The project was split into 13 tasks, taken in turn by Jeanne, Gaia and Zoé, so that each of us worked on reading, graphics, computing and finalisation.
 Each task had its own branch, created from an up-to-date `main`, and ended with a pull request reviewed by the other members. Jeanne (manager) merged the pull requests.
 
 | # | Task | Who | Branch |
